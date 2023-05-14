@@ -1,0 +1,4 @@
+Kinshuk,Ganguly,20,CSE,Kolkata,9.67
+Snehal,Ghosh,35,CSE,Kolkata,9.50
+Sanskriti,Bhattacharya,84,CSE,Rampurhat,9.25
+Abhiroop,Sarkar,3,CSE,Kolkata,0.00
